@@ -1,0 +1,9 @@
+flask
+flask-cors
+requests
+bs4
+streamlit
+langchain-community
+langchain-huggingface
+faiss-cpu
+sentence-transformers
